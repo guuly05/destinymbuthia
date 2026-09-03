@@ -1,0 +1,74 @@
+{
+  "about": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/8c9d6ff1-c48e-4345-83bb-f78bbd2709e7/IMG_0243.JPG",
+      "title": "photo",
+      "local_path": "assets/destiny_photos/about/shot_1.jpg"
+    }
+  ],
+  "works": [],
+  "home": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/fb1d1f89-a7c3-49a1-ace3-c1d80b7226c6/IMG_0948.JPG",
+      "title": "photo",
+      "local_path": "assets/destiny_photos/home/shot_1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/de088ea7-9332-4e73-912c-66a38c00e2a0/IMG_4691.jpg",
+      "title": "photo",
+      "local_path": "assets/destiny_photos/home/shot_2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/6f748564-6af0-4d63-82ea-cd406595c541/IMG_3263.JPG",
+      "title": "photo",
+      "local_path": "assets/destiny_photos/home/shot_3.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/c8645720-d28b-40f8-81b3-dfa0ac2246f6/1Z4A4984.jpg",
+      "title": "photo",
+      "local_path": "assets/destiny_photos/home/shot_4.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/af26d7fe-fafe-4a73-a59c-f2bec4beed33/IMG_8354.JPG",
+      "title": "photo",
+      "local_path": "assets/destiny_photos/home/shot_5.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/cf9b1c18-b5d4-4725-90da-5ac73c7207f6/IMG_3410.JPG",
+      "title": "photo",
+      "local_path": "assets/destiny_photos/home/shot_6.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/e933f0f7-005f-4fd8-b1af-a57b39d43ebb/IMG_0914.JPG",
+      "title": "photo",
+      "local_path": "assets/destiny_photos/home/shot_7.jpg"
+    }
+  ],
+  "portfolio": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/615620d5-f1ee-4f6c-b1a6-558d7e9ea3a4/IMG_5032.JPG",
+      "title": "Fashion",
+      "local_path": "assets/destiny_photos/portfolio/Fashion_1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/b0cff18a-091d-44d6-a912-73dda2436f75/IMG_2389.JPG",
+      "title": "Portraits",
+      "local_path": "assets/destiny_photos/portfolio/Portraits_2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/91fdfba5-4466-493d-a627-d1a5f5b367d6/IMG_2388.JPG",
+      "title": "Landscape",
+      "local_path": "assets/destiny_photos/portfolio/Landscape_3.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/a0d83cdc-e1db-431f-85f8-c07e339d082f/IMG_4695.jpg",
+      "title": "Photoshoots",
+      "local_path": "assets/destiny_photos/portfolio/Photoshoots_4.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/68c73f9b79871e39431ddd3a/eacc7104-8cf5-4a50-88a6-e90aa55a7f2f/1Z4A5488.JPG",
+      "title": "Graduates",
+      "local_path": "assets/destiny_photos/portfolio/Graduates_5.jpg"
+    }
+  ]
+}

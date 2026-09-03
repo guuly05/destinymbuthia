@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inquire for Appointment — Destiny Mbuthia Photography</title>
+  <meta name="description" content="Send a message to Destiny Mbuthia to request a photoshoot appointment, portrait session, or editorial collaboration in Fayetteville, Arkansas.">
+  
+  <link rel="canonical" href="https://destinymbuthia.com/contact">
+  <meta property="og:title" content="Inquire for Appointment — Destiny Mbuthia">
+  <meta property="og:description" content="Get in touch with Destiny Mbuthia for film and digital photography inquiries.">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="light-leak ambient-1"></div>
+
+  <!-- Header / Navigation -->
+  <header class="site-header">
+    <a href="/" class="brand-logo nav-route">
+      <div class="viewfinder-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+          <circle cx="12" cy="12" r="9"/>
+          <path d="M12 3v3M12 18v3M3 12h3M18 12h3"/>
+          <circle cx="12" cy="12" r="3"/>
+        </svg>
+      </div>
+      <div class="brand-text">
+        <span class="brand-name">DESTINY MBUTHIA</span>
+        <span class="brand-sub">35MM FILM & DIGITAL • FAYETTEVILLE, AR</span>
+      </div>
+    </a>
+
+    <nav class="nav-links">
+      <a href="/work" class="nav-link nav-route"><span class="nav-num">01.</span> Gallery</a>
+      <a href="/about" class="nav-link nav-route"><span class="nav-num">02.</span> About</a>
+      <a href="/investment" class="nav-link nav-route"><span class="nav-num">03.</span> Rates</a>
+      <a href="/contact" class="nav-btn nav-route active-nav">Inquire for Appointment</a>
+    </nav>
+  </header>
+
+  <main id="main-content">
+
+    <!-- Message / Appointment Inquiry Section -->
+    <section class="contact-section page-section">
+      <div class="contact-card-wrapper">
+        <div class="contact-info">
+          <span class="section-num">04 // INQUIRE</span>
+          <h1 class="contact-title">Request an Appointment</h1>
+          <p class="contact-sub">Send a message to request a shoot appointment, discuss creative ideas, or ask about custom dates. Destiny will respond personally to confirm availability.</p>
+          
+          <div class="direct-contact">
+            <div class="info-row">
+              <span class="info-label">Direct Email</span>
+              <a href="mailto:destinymbuthia@gmail.com" class="info-value">destinymbuthia@gmail.com</a>
+            </div>
+            <div class="info-row">
+              <span class="info-label">Base Location</span>
+              <span class="info-value">Fayetteville, Arkansas (UofA)</span>
+            </div>
+          </div>
+        </div>
+
+        <form class="booking-form" id="bookingForm">
+          <div class="form-group">
+            <label for="clientName">Your Name</label>
+            <input type="text" id="clientName" placeholder="e.g. Maya Lin" required>
+          </div>
+
+          <div class="form-group">
+            <label for="clientEmail">Email Address</label>
+            <input type="email" id="clientEmail" placeholder="maya@example.com" required>
+          </div>
+
+          <div class="form-group">
+            <label for="selectedPackage">Interested Session / Package</label>
+            <select id="selectedPackage" required>
+              <option value="">Select a Session Type...</option>
+              <option value="Digital Mini Session ($30)">Digital Mini Session ($30)</option>
+              <option value="Digital Standard Session ($75)">Digital Standard Session ($75)</option>
+              <option value="Digital Deluxe Session ($150)">Digital Deluxe Session ($150)</option>
+              <option value="Film Mini Session ($50)">Film Mini Session ($50)</option>
+              <option value="Film Standard Session ($110)">Film Standard Session ($110)</option>
+              <option value="Film Deluxe Session ($220)">Film Deluxe Session ($220)</option>
+              <option value="Film & Digital Combo Session ($185)">Film & Digital Combo Session ($185)</option>
+              <option value="Custom Project Inquiry">Custom Project Inquiry</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="projectDetails">Your Message & Preferred Dates</label>
+            <textarea id="projectDetails" rows="4" placeholder="Hi Destiny, I would love to request an appointment for a portrait shoot around next weekend..." required></textarea>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-block">Send Message to Destiny</button>
+        </form>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toastNotification">Message Sent! Destiny will reply to your appointment request shortly.</div>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <div class="footer-brand">
+        <span class="footer-logo">DESTINY MBUTHIA PHOTOGRAPHY</span>
+        <p>© 2026 Destiny Mbuthia. Fayetteville, AR • Uganda.</p>
+      </div>
+      <div class="footer-socials">
+        <a href="https://www.instagram.com/des.narratives/" target="_blank" rel="noopener">Instagram</a>
+        <a href="https://www.tiktok.com/@desmbuthia" target="_blank" rel="noopener">TikTok</a>
+        <a href="https://www.linkedin.com/in/destinymbuthia/" target="_blank" rel="noopener">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
